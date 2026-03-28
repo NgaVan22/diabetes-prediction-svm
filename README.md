@@ -27,5 +27,3 @@ Open the notebook and run all cells.
 ## 👨‍💻 Author
 
 Nga Van
-
-Your Name
