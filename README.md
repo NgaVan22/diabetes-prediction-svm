@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project uses machine learning to predict diabetes based on medical data.
+Dự án sử dụng Machine Learning để dự đoán bệnh tiểu đường dựa trên dữ liệu y tế.
 
 ## 🚀 Models
 
@@ -13,7 +13,7 @@ This project uses machine learning to predict diabetes based on medical data.
 
 Pima Indians Diabetes Dataset
 
-## ⚙️ Tools
+## 🔧 Technologies
 
 * Python
 * Scikit-learn
@@ -22,7 +22,7 @@ Pima Indians Diabetes Dataset
 
 ## ▶️ How to Run
 
-Open the notebook and run all cells.
+Mở file `diabetes_prediction_svm.ipynb` bằng Jupyter Notebook
 
 ## 👨‍💻 Author
 
